@@ -1,7 +1,7 @@
 # Toy Problem 
 Java Script program applications that perform specified tasks, 0ctober 08 2023 By Abdul Esmail
 
-##Description
+##Description:
 These are Java Script program applications for various tasks. There are three projects at hand here each with various tasks;
 
 ##The student grading App:
