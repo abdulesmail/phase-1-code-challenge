@@ -2,6 +2,7 @@
 Java Script program applications that perform specified tasks, 0ctober 08 2023 By Abdul Esmail
 
 ##Description:
+
 These are Java Script program applications for various tasks. There are three projects at hand here each with various tasks;
 
 ##The student grading App:
@@ -49,8 +50,9 @@ In case of any query, need for collaboration or issues with the codes, feel free
 
 
 ##License
+
  MIT License
->>>>>>> refs/remotes/origin/main
+refs/remotes/origin/main
 
 Copyright © 2023 Abdul Esmail
 
